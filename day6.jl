@@ -53,4 +53,4 @@ function nLights(filename)
   sum(L)
 end
 
-nLights("input6.txt")
+println(nLights("input6.txt"))
